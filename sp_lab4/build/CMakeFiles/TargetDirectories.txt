@@ -1,0 +1,4 @@
+/root/ali3/build/CMakeFiles/edit_cache.dir
+/root/ali3/build/CMakeFiles/rebuild_cache.dir
+/root/ali3/build/CMakeFiles/calculator_app.dir
+/root/ali3/build/CMakeFiles/calculator.dir
